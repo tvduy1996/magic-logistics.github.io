@@ -1,1 +1,1 @@
-# magic-logistics.github.io
+# magic-logistics
